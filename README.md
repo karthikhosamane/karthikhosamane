@@ -1,0 +1,1 @@
+Mobile app to provide all generic public information of selected city of India. Information can be About City Main Attraction Hotels Hospitals Emergency Contact No Scholl and college Police stations Public Representatives Govt Officials Old Age Home Local Train Information Bus time table Information Nearest police station based on Geo Location .
